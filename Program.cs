@@ -11,7 +11,7 @@
 
     public class JobApplication
     {
-        // Alla attribut
+         // Alla attribut
         public string CompanyName { get; set; }
         public string PositionTitle { get; set; }
         public ApplicationStatus Status { get; set; }
